@@ -1,0 +1,51 @@
+/**
+ * Copyright (C) 2023 Alberto Rota
+ * 
+ * This file is part of Dark Calendar.
+ * 
+ * Dark Calendar is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * Dark Calendar is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with Dark Calendar.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+html body{
+    color-scheme: dark;
+    --primary: rgb(115, 255, 208);
+    --primary-variant: rgb(66,133,244);
+    --on-primary: rgb(241,243,244);
+    --secondary: rgb(232,240,254);
+    --secondary-variant: rgb(210,227,252);
+    --on-secondary: rgb(25,103,210);
+    --on-secondary-variant: rgb(24,90,188);
+    --surface: rgb(32, 33, 36);
+    --surface-transparent: rgba(46, 28, 28, 0);
+    --on-surface: rgb(244, 241, 244);
+    --on-surface-variant: rgb(244, 241, 244);
+    --on-surface-variant-agm: rgb(244, 241, 244);
+    --background: #535353;
+    --on-background: rgb(244, 241, 244);
+    --textfield-surface: rgb(53, 53, 53);
+    --textfield-primary: rgb(25,103,210);
+    --textfield-hairline: rgb(128,134,139);
+    --textfield-error: rgb(197,34,31);
+    --textfield-on-surface-variant: rgb(241,243,244);
+    --hairline: rgb(95,99,104);
+    --error: rgb(217,48,37);
+    --on-error: #fff;
+    --shadow-1: 0px 1px 2px 0px rgba(241,243,244,0.3),0px 1px 3px 1px rgba(241,243,244,0.15);
+    --shadow-5: 0px 4px 4px 0px rgba(241,243,244,0.3),0px 8px 12px 6px rgba(241,243,244,0.15);
+    --fab: rgba(255,255,255,0.502);
+    --fab-hover: #f6fafe;
+    --dimmed: rgba(241,243,244,0.38);
+    --chip-hover: rgb(244, 241, 244);
+    --now: rgb(234,67,53)
+}
